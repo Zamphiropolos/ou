@@ -1,20 +1,36 @@
-
-
-[
-
-  {
-    "name": "CANALES",
+{
+    "name": "Widevine DASH (MP4, H264)",
     "samples": [
-
       {
-        "name": "ESPN2HD",
-        "uri": "https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
+        "name": "HD (cenc)",
+        "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://serverop.ga/lic/op.php",
-
-        }
-
+        "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test"
+      },
+      {
+        "name": "UHD (cenc)",
+        "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears_uhd.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test"
+      },
+      {
+        "name": "HD (cbcs)",
+        "uri": "https://storage.googleapis.com/wvmedia/cbcs/h264/tears/tears_aes_cbcs.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test"
+      },
+      {
+        "name": "UHD (cbcs)",
+        "uri": "https://storage.googleapis.com/wvmedia/cbcs/h264/tears/tears_aes_cbcs_uhd.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test"
+      },
+      {
+        "name": "Secure -> Clear -> Secure (cenc)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/widevine/tears_enc_clear_enc.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test",
+        "drm_session_for_clear_content": true
+      }
     ]
-  }
-
-]
+  },
