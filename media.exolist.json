@@ -1,19 +1,24 @@
+
+
 [
+
   {
-    "name": "Widevine DASH (MP4, H265)",
+    "name": "CANALES",
     "samples": [
+
       {
-        "name": "HD (cenc)",
+        "name": "ESPN2HD",
         "uri": "https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
         "drm_scheme": "widevine",
-        "drm_license_uri": "http://serverop.ga/lic/op.php"
-      },
-      {
-        "name": "UHD (cenc)",
-        "uri": "https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "http://serverop.ga/lic/op.php"
-      }
+        "drm_license_url": "http://serverop.ga/lic/op.php",
+        "extension": "mpd",
+        "drm_key_request_properties": {
+          "X-AxDRM-Message": "YOUR-xrdm-value"
+        }
+
+        }
+
     ]
-  },
-  ]
+  }
+
+]
