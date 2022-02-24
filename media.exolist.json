@@ -1,36 +1,30 @@
-{
-    "name": "Widevine DASH (MP4, H264)",
+[
+  {
+    "name": "Clear DASH",
     "samples": [
       {
-        "name": "HD (cenc)",
-        "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test"
+        "name": "HD (MP4, H264)",
+        "uri": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd"
       },
       {
-        "name": "UHD (cenc)",
-        "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears_uhd.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test"
+        "name": "UHD (MP4, H264)",
+        "uri": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears_uhd.mpd"
       },
       {
-        "name": "HD (cbcs)",
-        "uri": "https://storage.googleapis.com/wvmedia/cbcs/h264/tears/tears_aes_cbcs.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test"
+        "name": "HD (MP4, H265)",
+        "uri": "https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears.mpd"
       },
       {
-        "name": "UHD (cbcs)",
-        "uri": "https://storage.googleapis.com/wvmedia/cbcs/h264/tears/tears_aes_cbcs_uhd.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test"
+        "name": "UHD (MP4, H265)",
+        "uri": "https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears_uhd.mpd"
       },
       {
-        "name": "Secure -> Clear -> Secure (cenc)",
-        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/widevine/tears_enc_clear_enc.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test",
-        "drm_session_for_clear_content": true
+        "name": "HD (WebM, VP9)",
+        "uri": "https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears.mpd"
+      },
+      {
+        "name": "UHD (WebM, VP9)",
+        "uri": "https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears_uhd.mpd"
       }
     ]
   },
