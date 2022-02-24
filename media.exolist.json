@@ -4,19 +4,7 @@
     "name": "DeporTVHD",
     "samples": [
 
-      {
-        "name": "Canal deporte",
-        "uri": "https://edge-live16-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://teudynea.webcindario.com/megatv.php",
-        "extension": "mpd",
-        "drm_key_request_properties": {
-          "X-AxDRM-Message": "YOUR-xrdm-value"
-        }
-
-        }
-      
-            {
+               {
         "name": "TCM",
         "uri": "https://sv.spliktv.xyz/live/dash/CA/c2live\/TCM/cc.mpd",
         "drm_scheme": "widevine",
@@ -26,6 +14,8 @@
           "X-AxDRM-Message": "YOUR-xrdm-value"
         }
 
+        }
+      
         }
 
     ]
