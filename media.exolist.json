@@ -29,13 +29,13 @@
     "samples": [
       {
         "name": "WV: HDCP not specified",
-        "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
+        "uri": "https://sv.spliktv.xyz/live/dash/CA/c2live//TCM/cc.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: HDCP not required",
-        "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
+        "uri": "https://sv.spliktv.xyz/live/dash/CA/c2live//TCM/cc.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
@@ -112,9 +112,9 @@
       },
       {
         "name": "WV: HDCP: No digital output",
-        "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
+        "uri": "https://sv.spliktv.xyz/live/dash/CA/c2live//TCM/cc.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?video_id=HDCP_NO_DIGTAL_OUTPUT&provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       }
     ]
   },
@@ -139,27 +139,27 @@
       },
       {
         "name": "WV: Secure SD & HD (MP4,H264)",
-        "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
+        "uri": "https://sv.spliktv.xyz/live/dash/CA/c2live//TCM/cc.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure SD (MP4,H264)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears_sd.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure HD (MP4,H264)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears_hd.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure UHD (MP4,H264)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears_uhd.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       }
     ]
   },
@@ -186,49 +186,49 @@
         "name": "WV: Secure Fullsample SD & HD (WebM,VP9)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/vp9/tears/tears.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure Fullsample SD (WebM,VP9)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/vp9/tears/tears_sd.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure Fullsample HD (WebM,VP9)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/vp9/tears/tears_hd.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure Fullsample UHD (WebM,VP9)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/vp9/tears/tears_uhd.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure Subsample SD & HD (WebM,VP9)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/vp9/subsample/24fps/tears/tears.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure Subsample SD (WebM,VP9)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/vp9/subsample/24fps/tears/tears_sd.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure Subsample HD (WebM,VP9)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/vp9/subsample/24fps/tears/tears_hd.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure Subsample UHD (WebM,VP9)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/vp9/subsample/24fps/tears/tears_uhd.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       }
     ]
   },
@@ -255,25 +255,25 @@
         "name": "WV: Secure SD & HD (MP4,H265)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/hevc/tears/tears.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure SD (MP4,H265)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/hevc/tears/tears_sd.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure HD (MP4,H265)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/hevc/tears/tears_hd.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       },
       {
         "name": "WV: Secure UHD (MP4,H265)",
         "uri": "https://storage.googleapis.com/wvmedia/cenc/hevc/tears/tears_uhd.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/"
       }
     ]
   },
@@ -417,7 +417,7 @@
       {
         "name": "Clear -> Enc -> Clear -> Enc -> Enc",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
+        "drm_license_url": "https://saopaulo.spliktv.xyz/bs/",
         "playlist": [
           {
             "uri": "http://html5demos.com/assets/dizzy.mp4"
