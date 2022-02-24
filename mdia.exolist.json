@@ -1,0 +1,20 @@
+[
+
+  {
+    "name": "ESPN2HD",
+    "samples": [
+
+      {
+   
+             "name": "HD (cenc)",
+        "uri": "https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "http://serverop.ga/lic/op.php"
+        }
+
+        }
+
+    ]
+  }
+
+]
