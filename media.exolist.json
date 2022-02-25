@@ -6,10 +6,14 @@
 
       {
    
-             "name": "HD (cenc)",
-        "uri": "https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "http://serverop.ga/lic/op.php"
+   "name": "Cinecanal",
+      "link": "https://edge-live11-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8",
+      "web": "no",
+      "img": "cinecanal",
+      "Iicense": "http://serverop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
         }
 
         }
