@@ -37,7 +37,7 @@
       },
       {
         "name": "WarnerHD",
-        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd",
+        "uri": "https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_2.m3u8",
         "drm_scheme": "widevine",
         "drm_license_url": "http://serverop.ga/lic/op.php",
         "drm_key_request_properties": {
