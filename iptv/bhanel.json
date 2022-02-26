@@ -1,0 +1,23 @@
+
+[{"name":".TNT_Sports_HD",
+"logo":"https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png",
+"url":"https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8",
+"categories":[{"name":"Entertainment","slug":"entertainment"}],
+"countries":[{"name":"Russia","code":"RU"}],
+"languages":[{"name":"Russian","code":"rus"}],
+"tvg":{"id":"BlackRussia.us",
+"name":".black Russia",
+"url":""},
+  
+  {"name":".Pluto Cine Terror",
+"logo":"https://raw.githubusercontent.com/wedrly/app/main/2nlPPTz.png",
+"url":"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=77&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false",
+"categories":[{"name":"Entertainment","slug":"entertainment"}],
+"countries":[{"name":"Russia","code":"RU"}],
+"languages":[{"name":"Russian","code":"rus"}],
+"tvg":{"id":"BlackRussia.us",
+"name":".black Russia",
+"url":""}}
+
+     ]
+
