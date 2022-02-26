@@ -8,6 +8,7 @@
 "tvg":{"id":"BlackRussia.us",
 "name":".black Russia",
 "url":""}},
+ 
   {"name":".ID",
 "logo":"https://i.imgur.com/PI5Iba1.png",
 "url":"https://edge-live11-sl.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_2A/ID.mpd",
@@ -17,6 +18,19 @@
 "tvg":{"id":"BlackRussia.us",
 "name":".black Russia",
 "url":"http://serverop.ga/lic/op.php"}},
+ 
+ {"name":"Hits",
+"logo":"http://www.rewindnetworks.com/assets/logo_hits.png",
+"url":"https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
+"categories":[],
+"countries":[{"name":"Indonesia",
+"code":"ID"}],
+"languages":[{"name":"Indonesian",
+"code":"ind"}],
+"tvg":{"id":"Hits.id",
+"name":"Hits",
+"url":""}},
+ 
    {"name":".LA TELE",
 "logo":"https://i.imgur.com/PI5Iba1.png",
 "url":"https://edge10-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd",
